@@ -79,6 +79,7 @@
   "dependencies": {
     "abp-filter-parser-cpp": "1.2.x",
     "acorn": "3.2.0",
+    "allow2": "git+ssh://git@github.com:Allow2/allow2-node-api.git#v0.0.5",
     "aphrodite": "^1.0.0",
     "async": "^2.0.1",
     "electron-localshortcut": "^0.6.0",
